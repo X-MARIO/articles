@@ -12,3 +12,4 @@
 
 # Мониторинг ошибок
 - [rollbar](https://rollbar.com/platforms/angular-error-tracking/)
+- [sentry](https://sentry.io/)
