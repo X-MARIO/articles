@@ -9,3 +9,6 @@
 
 # angular tests RxJs
 - [Эффективное тестирование RxJS Marble](https://indepth.dev/posts/1303/effective-rxjs-test-scheduler)
+
+# Мониторинг ошибок
+- [rollbar](https://rollbar.com/platforms/angular-error-tracking/)
